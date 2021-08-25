@@ -1,4 +1,4 @@
-<h1> Lindo, Milionário. Esse é Jensen Ackles! eu sou Vinicius 😄</h1>
+<h1> Famoso, Lindo e Milionário. Esse é Jensen Ackles! eu sou Vinicius 😄</h1>
 
 - 🔭 Futoro Desenvolvedor.
 - 🌱 Estudando: PHP, HTML5, CSS3, JAVA...
