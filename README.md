@@ -3,3 +3,4 @@
 - 🔭 Futoro Desenvolvedor 
 - 🌱 Estudando: PHP, HTML5, CSS3, JAVA 
 
+![Snake animation](https://github.com/vsmesquita/vsmesquita/blob/output/github-contribution-grid-snake.svg)
