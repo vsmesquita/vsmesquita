@@ -8,7 +8,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=vsmesquita&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmesquita&&layout=compact&hide=shell&theme=jolly"/>
 
-  <img align="center" width="148" height="190" src="https://64.media.tumblr.com/d3502f7a763d7764bbb4aa35a35d0392/tumblr_o64bqgiGWd1qc9dlro1_500.gifv">
+  <img align="center" width="158" height="180" src="https://64.media.tumblr.com/d3502f7a763d7764bbb4aa35a35d0392/tumblr_o64bqgiGWd1qc9dlro1_500.gifv">
 </div>
  <br>
 <div  align="center"> 
