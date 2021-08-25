@@ -4,7 +4,8 @@
 - 🌱 Estudando: PHP, HTML5, CSS3, JAVA...
  
 <div>
-   <img  width="250" height="180" src="https://64.media.tumblr.com/d3502f7a763d7764bbb4aa35a35d0392/tumblr_o64bqgiGWd1qc9dlro1_500.gifv">
+   <img  width="250" height="180" src="https://64.media.tumblr.com/d3502f7a763d7764bbb4aa35a35d0392/tumblr_o64bqgiGWd1qc9dlro1_500.gifv"><br>
+<br>
    <a href="https://github.com/vsmesquita">
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vsmesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmesquita&layout=compact&langs_count=7&theme=dracula"/>
