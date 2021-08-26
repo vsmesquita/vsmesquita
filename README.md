@@ -1,6 +1,6 @@
 <h1> Famoso, Lindo e Milionário. Esse é Jensen Ackles! eu sou Vinicius 😄</h1>
 
-- 🔭 Futoro Desenvolvedor.
+- 🔭 Futuro Desenvolvedor.
 - 🌱 Estudando: PHP, HTML5, CSS3, JAVA...
  
 <div>
