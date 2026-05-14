@@ -1,4 +1,3 @@
-<h1> Famoso, Lindo e Milionário. Esse é Jensen Ackles! eu sou Vinicius 😄</h1>
 <h3> O céu não é o limite!</h3>
 
 - 🔭 Futuro Desenvolvedor.
